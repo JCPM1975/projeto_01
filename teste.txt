@@ -1,1 +1,1 @@
-Olá, isto é um teste.
+Olá, isto é um teste para o curso de Git e GitHub.
